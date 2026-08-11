@@ -4,3 +4,4 @@ Rice
 Chicken
 Juice
 Gurken
+Salade
