@@ -5,3 +5,4 @@ Chicken
 Juice
 Gurken
 Salade
+Banane
