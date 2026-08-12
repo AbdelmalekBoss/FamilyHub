@@ -6,3 +6,5 @@ Juice
 Gurken
 Salade
 Banane
+Cherries
+Pears
